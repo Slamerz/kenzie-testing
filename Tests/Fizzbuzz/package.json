@@ -8,7 +8,7 @@
   },
   "scripts": {
     "test": "mocha || exit 0",
-    "dom": "testcafe chrome ./test/dom-test.js"
+    "dom": "testcafe chrome ./dom-test.js"
   },
   "repository": {
     "type": "git",
